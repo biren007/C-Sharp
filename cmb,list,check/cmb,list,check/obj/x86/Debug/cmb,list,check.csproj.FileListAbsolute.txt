@@ -1,0 +1,7 @@
+D:\windowsformapp\cmb,list,check\cmb,list,check\bin\Debug\cmb,list,check.exe
+D:\windowsformapp\cmb,list,check\cmb,list,check\bin\Debug\cmb,list,check.pdb
+D:\windowsformapp\cmb,list,check\cmb,list,check\obj\x86\Debug\cmb_list_check.Form1.resources
+D:\windowsformapp\cmb,list,check\cmb,list,check\obj\x86\Debug\cmb_list_check.Properties.Resources.resources
+D:\windowsformapp\cmb,list,check\cmb,list,check\obj\x86\Debug\cmb,list,check.csproj.GenerateResource.Cache
+D:\windowsformapp\cmb,list,check\cmb,list,check\obj\x86\Debug\cmb,list,check.exe
+D:\windowsformapp\cmb,list,check\cmb,list,check\obj\x86\Debug\cmb,list,check.pdb

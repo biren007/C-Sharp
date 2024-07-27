@@ -1,0 +1,4 @@
+D:\windowsformapp\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe
+D:\windowsformapp\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.pdb
+D:\windowsformapp\exceptionhandling\exceptionhandling\obj\x86\Debug\exceptionhandling.exe
+D:\windowsformapp\exceptionhandling\exceptionhandling\obj\x86\Debug\exceptionhandling.pdb

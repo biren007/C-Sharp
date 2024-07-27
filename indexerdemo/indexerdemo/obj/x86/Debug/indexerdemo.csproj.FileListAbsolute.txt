@@ -1,0 +1,4 @@
+D:\windowsformapp\indexerdemo\indexerdemo\bin\Debug\indexerdemo.exe
+D:\windowsformapp\indexerdemo\indexerdemo\bin\Debug\indexerdemo.pdb
+D:\windowsformapp\indexerdemo\indexerdemo\obj\x86\Debug\indexerdemo.exe
+D:\windowsformapp\indexerdemo\indexerdemo\obj\x86\Debug\indexerdemo.pdb

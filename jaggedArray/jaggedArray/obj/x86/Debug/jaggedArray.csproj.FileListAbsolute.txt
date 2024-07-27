@@ -1,0 +1,4 @@
+D:\windowsformapp\jaggedArray\jaggedArray\bin\Debug\jaggedArray.exe
+D:\windowsformapp\jaggedArray\jaggedArray\bin\Debug\jaggedArray.pdb
+D:\windowsformapp\jaggedArray\jaggedArray\obj\x86\Debug\jaggedArray.exe
+D:\windowsformapp\jaggedArray\jaggedArray\obj\x86\Debug\jaggedArray.pdb
